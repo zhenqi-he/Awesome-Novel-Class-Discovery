@@ -147,7 +147,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 ## 2018
 
-- Learning to cluster in order to transfer across domains and tasks (**ICLR** 2018) [[paper]](https://openreview.net/pdf?id=ByRWCqvT-) [[code]](https://github.com/GT-RIPL/L2C) (KCL)
+- <span style="color: blue;">Learning to cluster in order to transfer across domains and tasks </span> (**ICLR** 2018) [[paper]](https://openreview.net/pdf?id=ByRWCqvT-) [[code]](https://github.com/GT-RIPL/L2C) (KCL)
 
 
 ## 2016
